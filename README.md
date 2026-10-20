@@ -21,6 +21,8 @@ I’m a third-year INFO-P student at the Czech University of Life Sciences Pragu
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-project%20experience-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-basic-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-basic-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-Essentials%20completed-000000?style=flat-square&logo=unity&logoColor=white)
+![Archi](https://img.shields.io/badge/Archi-modeling%20tool-2B579A?style=flat-square)
 
 ### Certification
 
@@ -53,6 +55,8 @@ Jsem studentem třetího ročníku oboru INFO-P na České zemědělské univerz
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-zkušenost%20z%20projektu-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-základy-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-základy-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-základy-000000?style=flat-square&logo=unity&logoColor=white)
+![Archi](https://img.shields.io/badge/Archi-modelovací%20nástroj-2B579A?style=flat-square)
 
 ### Certifikace
 
@@ -75,3 +79,4 @@ Aplikace pro evidenci tréninků v .NET MAUI vytvořená převážně s pomocí 
 ---
 
 <p align="center"><i>Always learning, building, and improving.</i></p>
+

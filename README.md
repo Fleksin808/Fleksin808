@@ -1,4 +1,6 @@
-Hi, I'm Štěpán 👋
+<div align="center">
+
+# Hi, I'm Štěpán 👋
 
 **Computer Science Student · Looking for a Junior QA / Software Testing role**
 
@@ -21,6 +23,9 @@ I’m a third-year INFO-P student at the Czech University of Life Sciences Pragu
 ![CSS3](https://img.shields.io/badge/CSS-basic-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Selected projects
+
+#### [Windows Forms Game Catalog](https://github.com/Fleksin808/WinForms-Project)
+A C# Windows Forms desktop app for managing a video game catalog, with XML-based data storage and forms for viewing and editing records.
 
 #### [DatabaseHer2025](https://github.com/Fleksin808/DatabaseHer2025)
 A university C# console application for managing a video game catalog stored in XML. It supports adding, editing, deleting, filtering, displaying, and saving game records.
@@ -46,6 +51,9 @@ Jsem studentem třetího ročníku oboru INFO-P na České zemědělské univerz
 ![CSS3](https://img.shields.io/badge/CSS-základy-1572B6?style=flat-square&logo=css3&logoColor=white)
 
 ### Vybrané projekty
+
+#### [Katalog her ve Windows Forms](https://github.com/Fleksin808/WinForms-Project)
+Desktopová aplikace v C# a Windows Forms pro správu katalogu videoher. Data ukládá do XML a nabízí formuláře pro prohlížení a úpravu záznamů.
 
 #### [DatabaseHer2025](https://github.com/Fleksin808/DatabaseHer2025)
 Školní konzolová aplikace v C# pro správu katalogu videoher uloženého v XML. Umožňuje hry přidávat, upravovat, mazat, filtrovat, zobrazovat a ukládat.

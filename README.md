@@ -22,6 +22,10 @@ I’m a third-year INFO-P student at the Czech University of Life Sciences Pragu
 ![HTML5](https://img.shields.io/badge/HTML-basic-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-basic-1572B6?style=flat-square&logo=css3&logoColor=white)
 
+### Certification
+
+- [Unity Essentials](https://learn.unity.com/submission/693c3e90edbc2a09eac53851) — completed on 12 December 2025.
+
 ### Selected projects
 
 #### [Windows Forms Game Catalog](https://github.com/Fleksin808/WinForms-Project)
@@ -49,6 +53,10 @@ Jsem studentem třetího ročníku oboru INFO-P na České zemědělské univerz
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-zkušenost%20z%20projektu-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML-základy-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS-základy-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Certifikace
+
+- [Unity Essentials](https://learn.unity.com/submission/693c3e90edbc2a09eac53851) — dokončeno 12. prosince 2025.
 
 ### Vybrané projekty
 

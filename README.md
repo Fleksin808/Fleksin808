@@ -16,13 +16,13 @@ I’m a third-year INFO-P student at the Czech University of Life Sciences Pragu
 
 ### Technologies
 
-![C#](https://img.shields.io/badge/C%23-learning-68217A?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-solid%20fundamentals-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-project%20experience-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-basic-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-basic-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-Essentials%20completed-000000?style=flat-square&logo=unity&logoColor=white)
-![Archi](https://img.shields.io/badge/Archi-modeling%20tool-2B579A?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-learning-555555?style=flat-square&logo=csharp&logoColor=white&labelColor=68217A)
+![SQL](https://img.shields.io/badge/SQL-solid%20fundamentals-555555?style=flat-square&logo=postgresql&logoColor=white&labelColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-project%20experience-555555?style=flat-square&logo=postgresql&logoColor=white&labelColor=4169E1)
+![HTML5](https://img.shields.io/badge/HTML-basic-555555?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS-basic-555555?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6)
+![Unity](https://img.shields.io/badge/Unity-Essentials%20completed-555555?style=flat-square&logo=unity&logoColor=white&labelColor=000000)
+![Archi](https://img.shields.io/badge/Archi-modeling%20tool-555555?style=flat-square&labelColor=2B579A)
 
 ### Certification
 
@@ -50,13 +50,13 @@ Jsem studentem třetího ročníku oboru INFO-P na České zemědělské univerz
 
 ### Technologie
 
-![C#](https://img.shields.io/badge/C%23-učím%20se-68217A?style=flat-square&logo=csharp&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-solidní%20základy-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-zkušenost%20z%20projektu-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML-základy-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-základy-1572B6?style=flat-square&logo=css3&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-základy-000000?style=flat-square&logo=unity&logoColor=white)
-![Archi](https://img.shields.io/badge/Archi-modelovací%20nástroj-2B579A?style=flat-square)
+![C#](https://img.shields.io/badge/C%23-učím%20se-555555?style=flat-square&logo=csharp&logoColor=white&labelColor=68217A)
+![SQL](https://img.shields.io/badge/SQL-solidní%20základy-555555?style=flat-square&logo=postgresql&logoColor=white&labelColor=4479A1)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-zkušenost%20z%20projektu-555555?style=flat-square&logo=postgresql&logoColor=white&labelColor=4169E1)
+![HTML5](https://img.shields.io/badge/HTML-základy-555555?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS-základy-555555?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6)
+![Unity](https://img.shields.io/badge/Unity-základy-555555?style=flat-square&logo=unity&logoColor=white&labelColor=000000)
+![Archi](https://img.shields.io/badge/Archi-modelovací%20nástroj-555555?style=flat-square&labelColor=2B579A)
 
 ### Certifikace
 

@@ -14,7 +14,7 @@
 
 I’m a third-year INFO-P student at the Czech University of Life Sciences Prague (CZU). I’m currently looking for a junior opportunity in software testing. I’m also interested in software development and want to keep growing in that direction.
 
-### Technologies
+### Technologies & Tools
 
 ![C#](https://img.shields.io/badge/C%23-learning-555555?style=flat-square&logo=csharp&logoColor=white&labelColor=68217A)
 ![SQL](https://img.shields.io/badge/SQL-solid%20fundamentals-555555?style=flat-square&logo=postgresql&logoColor=white&labelColor=4479A1)
@@ -22,11 +22,13 @@ I’m a third-year INFO-P student at the Czech University of Life Sciences Pragu
 ![HTML5](https://img.shields.io/badge/HTML-basic-555555?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS-basic-555555?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6)
 ![Unity](https://img.shields.io/badge/Unity-Essentials%20completed-555555?style=flat-square&logo=unity&logoColor=white&labelColor=000000)
+![Jira](https://img.shields.io/badge/Jira-basic-555555?style=flat-square&logo=jira&logoColor=white&labelColor=0052CC)
 ![Archi](https://img.shields.io/badge/Archi-modeling%20tool-555555?style=flat-square&labelColor=2B579A)
 
 ### Certification
 
 - [Unity Essentials](https://learn.unity.com/submission/693c3e90edbc2a09eac53851) — completed on 12 December 2025.
+
 
 ### Selected projects
 
@@ -48,7 +50,7 @@ A .NET MAUI workout-tracking app built primarily with AI assistance as a vibe-co
 
 Jsem studentem třetího ročníku oboru INFO-P na České zemědělské univerzitě v Praze. Aktuálně hledám juniorní příležitost v testování softwaru. Zajímám se také o vývoj a chci se v něm dál rozvíjet.
 
-### Technologie
+### Technologie a nástroje
 
 ![C#](https://img.shields.io/badge/C%23-učím%20se-555555?style=flat-square&logo=csharp&logoColor=white&labelColor=68217A)
 ![SQL](https://img.shields.io/badge/SQL-solidní%20základy-555555?style=flat-square&logo=postgresql&logoColor=white&labelColor=4479A1)
@@ -56,11 +58,13 @@ Jsem studentem třetího ročníku oboru INFO-P na České zemědělské univerz
 ![HTML5](https://img.shields.io/badge/HTML-základy-555555?style=flat-square&logo=html5&logoColor=white&labelColor=E34F26)
 ![CSS3](https://img.shields.io/badge/CSS-základy-555555?style=flat-square&logo=css3&logoColor=white&labelColor=1572B6)
 ![Unity](https://img.shields.io/badge/Unity-základy-555555?style=flat-square&logo=unity&logoColor=white&labelColor=000000)
+![Jira](https://img.shields.io/badge/Jira-základy-555555?style=flat-square&logo=jira&logoColor=white&labelColor=0052CC)
 ![Archi](https://img.shields.io/badge/Archi-modelovací%20nástroj-555555?style=flat-square&labelColor=2B579A)
 
 ### Certifikace
 
 - [Unity Essentials](https://learn.unity.com/submission/693c3e90edbc2a09eac53851) — dokončeno 12. prosince 2025.
+
 
 ### Vybrané projekty
 
@@ -79,4 +83,3 @@ Aplikace pro evidenci tréninků v .NET MAUI vytvořená převážně s pomocí 
 ---
 
 <p align="center"><i>Always learning, building, and improving.</i></p>
-
